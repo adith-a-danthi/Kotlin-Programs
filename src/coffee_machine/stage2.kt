@@ -13,7 +13,6 @@ The user should input the amount of coffee he needs, in cups, for all the guests
 Of course, all this coffee is not needed right now, so at this stage, the coffee machine doesnt actually make any coffee.
 The example below shows how your output might look.
 
-------------------------------------------------------------------------------------------------------------------------
 Sample Output:
 
 Write how many cups of coffee you will need: 25
