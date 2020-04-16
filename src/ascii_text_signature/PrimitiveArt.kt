@@ -1,4 +1,4 @@
-package ASCII_Text_Signature
+package ascii_text_signature
 /*
 Stage #1, #2: Primitive art
 
